@@ -1,0 +1,8 @@
+Hello this a text showing the real positions on ascii characters and their values in decimal notations based on the unicode7 
+0-9     48-57
+
+A-Z     65-90
+
+a-z     97-122
+
+
